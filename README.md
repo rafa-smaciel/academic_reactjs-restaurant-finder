@@ -75,7 +75,7 @@ This project was developed with the following technologies:
 
 
 ## ⚙ Test
-<a href="https://reactjs-working-with-components.netlify.app/" target="_blank">
+<a href="hhttps://restaurant-finder-by-reactjs.netlify.app/" target="_blank">
     <img alt="" title="snake pink game" src=".github/jogar.svg" width="50px" /> 
   </a>
 
